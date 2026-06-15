@@ -10,3 +10,4 @@
 
 # Recommended projects
 - hello-agents [[Code]](https://github.com/datawhalechina/hello-agents)
+- ai-agents-for-beginners [[Code]](https://github.com/microsoft/ai-agents-for-beginners)
