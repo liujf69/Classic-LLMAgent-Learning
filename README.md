@@ -10,6 +10,7 @@
 3. Reflexion: Language Agents with Verbal Reinforcement Learning. [[Paper]](https://arxiv.org/abs/2303.11366)
 
 # Recommended Blogs
+1. [万字长文解读LLM Agent：总体框架、经典论文与实践](https://zhuanlan.zhihu.com/p/2000210358820946463)
 
 # Recommended projects
 - hello-agents [[Code]](https://github.com/datawhalechina/hello-agents)
