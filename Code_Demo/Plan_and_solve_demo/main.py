@@ -3,9 +3,6 @@ from llm_client import HelloAgentsLLM
 from dotenv import load_dotenv
 from prompts.template import PLANNER_PROMPT_TEMPLATE, EXECUTOR_PROMPT_TEMPLATE
 
-# 加载 .env 文件中的环境变量
-load_dotenv()
-
 class Planner:
     def __init__(self, llm_client: HelloAgentsLLM):
         self.llm_client = llm_client
