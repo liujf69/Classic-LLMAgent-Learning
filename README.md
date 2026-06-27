@@ -2,8 +2,9 @@
 1. A curated collection of classic LLM Agent papers and blog 📕📕 posts for reading and learning 😄😄.
 
 # Simple Code Demo
-1. A simple code demo about [smart_travel_assistant](https://github.com/liujf69/Classic-LLMAgent-Learning/tree/main/Code_Demo/Smart_travel_assistant).
+1. A simple code demo about [Smart_travel_assistant](https://github.com/liujf69/Classic-LLMAgent-Learning/tree/main/Code_Demo/Smart_travel_assistant).
 2. A simple code demo about [ReAct_demo](https://github.com/liujf69/Classic-LLMAgent-Learning/tree/main/Code_Demo/ReAct_demo).
+3. A simple code demo about [Plan_and_solve_demo](https://github.com/liujf69/Classic-LLMAgent-Learning/tree/main/Code_Demo/plan_and_solve_demo).
 
 # Recommended Papers
 1. ReAct: Synergizing Reasoning and Acting in Language Models. [[Paper]](https://arxiv.org/pdf/2210.03629)
